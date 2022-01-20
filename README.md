@@ -16,6 +16,7 @@ Implementação de uma função que recebe um número inteiro positivo e retorna
 <br>
 <br>
 - **Caso tenha Dart Language instalado**
+
 1. Clone o projeto<br>
 2. Vá na raiz do projeto<br>
 3. Execute o seguinte comando no seu Terminal:  `dart run main.dart 'número de sua escolha' `. Ex: `dart run main.dart 10` 
