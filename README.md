@@ -12,7 +12,7 @@ Implementação de uma função que recebe um número inteiro positivo e retorna
 <br>
 <br>
 
-> **OBS: O binário foi gerado em um Windows sendo apenas compativel em sistemas Windows. Caso esteja em outro sistema operacional, execute o comando `dart compile exe main.dart -o bin/main` para gerar um binário compativel, sendo necessário a instalação da linguagem Dart para executa-lo**
+> **OBS: O binário foi gerado em um Windows sendo apenas compativel em sistemas Windows. Caso esteja em outro sistema operacional, execute o comando `dart compile exe main.dart -o bin/main` para gerar um binário compativel, sendo necessário a instalação da linguagem Dart para executá-lo**
 <br>
 <br>
 
